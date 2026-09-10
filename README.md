@@ -3,6 +3,17 @@
 ## Overview
 This repository contains a comprehensive corporate finance case study on Adidas, evaluating the company's financial strategies, capital structure, competitive positioning, and dividend policies. The analysis compares Adidas against major industry peers (Nike, Puma, Under Armour) to identify financial vulnerabilities and opportunities for growth.
 
+## 📸 Excel Model Previews
+
+### 1. WACC & Cost of Capital Optimization Schedule
+*Calculated the Weighted Average Cost of Capital (WACC) across varying debt levels to identify the optimal debt-to-capital ratio.*
+[![Wacc Approch](https://i.im.ge/QQXSxoW/Wacc_approch.png)](https://im.ge/i/QQXSxoW)
+
+### 2. Solvency & Liquidity Ratio Analysis
+*Benchmarked historical financial metrics against industry peers, tracking significance and year-over-year trends.*
+
+[![Ratio](https://i.im.ge/QQXSYbT/Ratio.png)](https://im.ge/i/QQXSYbT)
+
 ## Key Areas of Analysis
 * **Cost of Capital (WACC & CAPM):** Calculated Weighted Average Cost of Capital across varying debt levels to identify the optimal debt-to-capital ratio.
 * **Solvency & Liquidity:** Analyzed historical Debt-to-Equity, Net Debt-to-EBITDA, and EBIT Interest Coverage ratios from 2019-2023.
